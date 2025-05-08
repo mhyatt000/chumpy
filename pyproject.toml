@@ -1,0 +1,14 @@
+[project]
+name = "chumpy"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+description = "Automatic differentiation for numpy-compatible objects"
+authors = [{ name = "Matthew Loper", email = "matt.loper@gmail.com" }]
+license = { text = "MIT" }
+dependencies = [
+    "numpy>=1.8.1",
+    "scipy>=0.13.0",
+    "six>=1.11.0",
+]
