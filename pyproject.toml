@@ -1,6 +1,6 @@
 [project]
 name = "chumpy"
-version = "0.1.0"
+version = "0.71"
 readme = "README.md"
 requires-python = ">=3.11"
 description = "Automatic differentiation for numpy-compatible objects"
